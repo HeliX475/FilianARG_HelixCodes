@@ -1,11 +1,11 @@
-Quickly what the program does:
+## Quickly what the program does:
 The code uses the hex data from the Shremple towers to create a bitmap and searches for the hard-coded coordinates.
 Once found, it colors the fragments according to the legend to show where they are, and this may help us find a rule about where and how the potential coordinates are placed in the towers' code.
 
-More about how the program searches for coordinates:
+## More about how the program searches for coordinates:
 The program takes a window of a specific size (hardcoded) and then shifts the window in 1-bit increments. It shifts the window so that each bit is checked. After checking them, the closest fragment (translated to decimal) to the desired decimal is found and then displayed.
 
-Why such coordinates and why in this form?:
+## Why such coordinates and why in this form?:
 The coordinates searched for in the code are those from the end temple, as they are known coordinates, and the structure itself may correlate with the black glass "port" in Shremple.
 
 In the code, I assumed the coordinates in the towers' code were in XYZ format, with an X and Z precision of 3 decimal places and a Y precision of 5 decimal places, as it is the case in Minecraft.
