@@ -1,7 +1,7 @@
 #A small section so that anyone who worked on the code/version has a mention of them
 
 #Original concept and code by: HeliX475
-#Version by: <your nickname>
+#Version by: <your nickname/nicknames>
 
 import tkinter as tk
 from tkinter import ttk
