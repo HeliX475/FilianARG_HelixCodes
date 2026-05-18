@@ -17,3 +17,10 @@ This is where the problem arises: it's like looking for a pin in a hard haystack
 You don't know what's a pin and what's hard, unbreakable hay. So the program in its current form is more for reverse engineering based on known coordinates, but who knows what you could get out of it.
 
 Play around with the code, maybe you'll find something.
+
+## Requirements to run the program
+Any Python editor you want and the Tkinter library. 
+
+[!NOTE]
+I used Python 3.7 and the Tkinter library version 8.6 to write the program.
+So the program definitely works on these versions.
