@@ -22,4 +22,5 @@ Play around with the code, maybe you'll find something.
 Any Python editor you want and the Tkinter library. 
 
 > [!NOTE]
+> Just in case, here's the information on what versions I used to write the code.
 > I used Python 3.7 and the Tkinter library version 8.6 to write the program. So the program definitely works on these versions.
