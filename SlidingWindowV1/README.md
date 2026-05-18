@@ -2,6 +2,8 @@
 The code uses the hex data from the Shremple towers to create a bitmap and searches for the hard-coded coordinates. \
 Once found, it colors the fragments according to the legend to show where they are, and this may help find a rule about where and how the potential coordinates are placed in the towers' code.
 
+<img width="999" height="454" alt="Image" src="https://github.com/user-attachments/assets/b82da694-8eb1-4f4d-affc-df8093179967" />
+
 ## More about how the program searches for coordinates:
 The program takes a window of a specific size (hardcoded) and then shifts the window in 1-bit increments. It shifts the window so that each bit is checked. After checking them, the closest fragment (translated to decimal) to the desired decimal is found and then displayed.
 
