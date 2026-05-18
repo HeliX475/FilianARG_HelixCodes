@@ -21,6 +21,5 @@ Play around with the code, maybe you'll find something.
 ## Requirements to run the program
 Any Python editor you want and the Tkinter library. 
 
-[!NOTE]
-I used Python 3.7 and the Tkinter library version 8.6 to write the program.
-So the program definitely works on these versions.
+> [!NOTE]
+> I used Python 3.7 and the Tkinter library version 8.6 to write the program. So the program definitely works on these versions.
