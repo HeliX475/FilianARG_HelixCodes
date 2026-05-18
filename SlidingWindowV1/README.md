@@ -12,7 +12,8 @@ The coordinates searched for in the code are those from the end temple, as they 
 
 In the code, I assumed the coordinates in the towers' code were in XYZ format, with an X and Z precision of 3 decimal places and a Y precision of 5 decimal places, as it is the case in Minecraft. \
 Because I'm assuming floating point, instead of 1607 it's 1607000 (1607.000 without the decimal point) \
-I could be wrong; they could only be X and Z. They might be integers, not floating-point values.
+I could be wrong; they could only be X and Z. They might be integers, not floating-point values. \
+We don't really know what form these coordinates have if they are there in the tower code.
 
 ## What about unknown coordinates?
 This is where the problem arises: it's like looking for a pin in a hard haystack blindfolded. \
